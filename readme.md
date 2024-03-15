@@ -27,13 +27,6 @@ This project aims to demonstrate my understanding of building web applications u
 1. Clone this repository.
 2. Install dependencies by running `npm install`.
 3. Set up your environment variables by creating a `.env` file and specifying the required variables.
-4. Start the server by running `npm start`.
+4. Start the server by running `npm run devStart`.
 5. Access the application through your browser or API client.
 
-## Contribution
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
